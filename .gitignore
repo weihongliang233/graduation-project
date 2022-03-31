@@ -1,0 +1,9 @@
+env/
+denoised/
+__pycache__/
+dataset/
+.ipynb_checkpoints/
+noised/
+ocr/
+*.png
+*.jpg
